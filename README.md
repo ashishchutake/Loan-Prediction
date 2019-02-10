@@ -1,6 +1,8 @@
 # Loan-Prediction
 
-Customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others, the objective of of my project to predict whether a customer is eligible for loan or not
+Customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others, the objective of of my project to predict whether a customer is eligible for loan or not.
+
+
 Responsiblity
 1) Explored and research on customer data required for loan prediction.
 2) Prepared preprocessing for customer data on Loan Prediction.
